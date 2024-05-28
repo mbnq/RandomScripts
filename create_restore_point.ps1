@@ -3,7 +3,6 @@
 	named with current date and time.
 	
 	https://www.mbnq.pl
-
 #>
 
 Write-Host "This script creates Windows Restore Point named with current date and time."
