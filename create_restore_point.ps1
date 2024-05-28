@@ -1,5 +1,5 @@
 <#
-	This script create Windows Restore Point 
+	This script creates Windows Restore Point 
 	named with current date and time.
 	
 	https://www.mbnq.pl
