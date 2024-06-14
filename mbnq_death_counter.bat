@@ -39,7 +39,7 @@ if !dAmount! gtr 0 (
 echo. >> %fileName% 
 echo **************************** 2024 ******************************* >> %fileName%
 echo. >> %fileName% 
-echo Each X symbol represents a person who lost their life  >> %fileName%
+echo Each !dPerson! symbol represents a person who lost their life  >> %fileName%
 echo during the Russian invasion of Ukraine, on both sides. >> %fileName%
 echo Source^: UN >> %fileName%
 echo. >> %fileName%
